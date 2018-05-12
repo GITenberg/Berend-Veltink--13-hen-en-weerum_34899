@@ -1,0 +1,27 @@
+_repo: Berend-Veltink--13-hen-en-weerum_34899
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34899-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Boom, Harm
+    birthdate: 1810
+    deathdate: 1885
+    gutenberg_agent_id: '37289'
+    url: http://www.gutenberg.org/2009/agents/37289
+description: ''
+gutenberg_issued: '2011-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34899'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: "Berend Veltink\r\noet 't Emmer Kerspel op reize noa Grönningen um 't peerdespul\
+  \ van Carré te zeen en wat hum daorbij overkwam, hen en weerum"
+url: http://www.gutenberg.org/ebooks/34899
