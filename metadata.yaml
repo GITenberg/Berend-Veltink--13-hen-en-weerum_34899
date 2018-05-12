@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37289'
     url: http://www.gutenberg.org/2009/agents/37289
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34899#Berend-Veltink--13-hen-en-weerum
 gutenberg_issued: '2011-01-06'
 gutenberg_type: Text
 identifiers:
